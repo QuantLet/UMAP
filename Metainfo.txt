@@ -5,7 +5,7 @@ Published in : 'UMAP'
 
 Description : 'Clustering results displayed in the reduced space by applying different types of dimension reduction methods, including PCA and tSNE.'
 
-Keywords : 'K expectiles clustering, PCA, tSNE'
+Keywords : 'K expectiles clustering, PCA, tSNE, Crypto punks'
 
 Author : 'Bingling Wang'
 
