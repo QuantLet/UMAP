@@ -18,8 +18,8 @@ Author: Bingling Wang
 Submitted: Wed, April 27 2021 by Bingling Wang
 
 Example: 
-- 1: 'PCA clustering results
-- 2: 'tSNE clustering results
+- 1: 'PCA clustering results'
+- 2: 'tSNE clustering results'
 
 ```
 <div align="center">
